@@ -14,7 +14,7 @@ body {
 }
 
 .card {
-  max-width: 260px;
+  max-width: 290px;
   background-color: white;
   padding: 15px;
   border-radius: 15px;
@@ -37,5 +37,5 @@ p {
   color: hsl(216, 15%, 48%);
 }
 
-.attribution { font-size: 0.6875rem; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.frontend-mentor-link { font-size: 0.6875rem; text-align: center; }
+.frontend-mentor-link a { color: hsl(228, 45%, 44%); }
